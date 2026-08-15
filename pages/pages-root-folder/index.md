@@ -8,10 +8,11 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Sobre o III SAS"
+  # url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '#'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'O III Simpósio de Automação e Sistemas reúne estudantes, pesquisadores, profissionais e demais interessados para compartilhar conhecimentos, experiências e pesquisas na área de automação e sistemas.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
