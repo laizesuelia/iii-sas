@@ -5,6 +5,7 @@ meta_title: "Contato - III SAS"
 subheadline: "Fale Conosco"
 teaser: "Entre em contato com a organização do III Simpósio de Automação e Sistemas."
 permalink: /contact/
+header: false
 ---
 
 ## Informações de Contato

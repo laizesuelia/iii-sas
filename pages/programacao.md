@@ -2,6 +2,7 @@
 layout: page
 title: "Programação"
 permalink: /programacao/
+header: false
 ---
 
 Confira a programação do **III Simpósio de Automação e Sistemas (III SAS)**.
