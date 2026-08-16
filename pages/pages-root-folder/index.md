@@ -6,7 +6,7 @@ homepage: true
 <style>
   #header-home h1, #header-home p, .header-title, #masthead h1 {
     display: none !important;
-  #}
+  }
 </style>
 
 <div class="row">
