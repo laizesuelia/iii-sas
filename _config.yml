@@ -17,7 +17,7 @@ slogan: 'III SAS — UFRN'
 description: 'III Simpósio de Automação e Sistemas da Universidade Federal do Rio Grande do Norte.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-'<p>III Simpósio de Automação e Sistemas · UFRN</p>'
+credits: '<p>III Simpósio de Automação e Sistemas · UFRN</p>'
 
 # Main author of the website
 # See > authors.yml
