@@ -3,7 +3,6 @@ layout: page
 title: "Sobre o III SAS"
 teaser: "Conheça o III Simpósio de Automação e Sistemas."
 permalink: /sobre/
-header: false
 ---
 
 ## Sobre o evento
