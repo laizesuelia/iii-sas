@@ -48,10 +48,11 @@ sitemap:
 
 @import "11_syntax-highlighting.scss";
 
-#header-home, 
-#masthead, 
-#masthead-with-text, 
-#masthead-no-image-header, 
-.masthead-title {
+.masthead-title,
+#header-home h1,
+#header-home p,
+#masthead h1,
+#masthead p,
+#masthead-with-text h1 {
   display: none !important;
 }
