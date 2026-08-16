@@ -9,50 +9,36 @@ header:
 
 ## Sobre o evento
 
-O **III Simpósio de Automação e Sistemas (III SAS)** é um evento voltado à integração entre estudantes, pesquisadores, professores, profissionais e demais interessados nas áreas de automação e sistemas.
+O **III Simpósio de Automação e Sistemas (III SAS)** reúne estudantes, pesquisadores, profissionais e representantes do setor para compartilhar conhecimentos, apresentar pesquisas e discutir tendências e desafios relacionados à automação e aos sistemas.
 
-O simpósio busca proporcionar um espaço para **compartilhamento de conhecimentos, apresentação de pesquisas, discussão de ideias e troca de experiências**, aproximando diferentes integrantes da comunidade acadêmica e profissional.
+O evento promove a integração entre universidade, pesquisa, tecnologia e indústria, criando um espaço para troca de experiências, divulgação científica e discussão de soluções inovadoras.
 
-## Objetivos
+## Comemoração Especial: 30 Anos de Engenharia da Computação
 
-O III SAS tem como objetivos:
+Nesta edição, o III SAS celebra os **30 anos do curso de Engenharia da Computação**. É um momento especial para reconhecer a trajetória do curso, sua contribuição para a formação de profissionais e pesquisadores, e para projetar os próximos anos da tecnologia e inovação. Durante o evento, teremos uma programação dedicada a essa história de três décadas.
 
-- Promover a divulgação de conhecimentos e pesquisas na área de automação e sistemas;
-- Estimular a interação entre estudantes, pesquisadores e profissionais;
-- Criar oportunidades para apresentação e discussão de trabalhos;
-- Incentivar a troca de experiências e a colaboração entre participantes;
-- Aproximar a comunidade acadêmica das aplicações práticas relacionadas à área.
+## O que você vai encontrar?
 
-## Público-alvo
+- **Palestras**: Discussões com especialistas e profissionais convidados.
+- **Plenárias**: Debates sobre temas atuais e estratégicos da tecnologia.
+- **Apresentações de Artigos**: Espaço para divulgação e discussão de trabalhos científicos.
+- **Conexão com a Indústria**: Integração entre conhecimento acadêmico, mercado e inovação.
 
-O evento é destinado a:
+## Temas em Destaque
 
-- Estudantes de graduação e pós-graduação;
-- Professores e pesquisadores;
-- Profissionais da área de tecnologia e engenharia;
-- Integrantes de grupos e projetos de pesquisa e extensão;
-- Demais pessoas interessadas em automação e sistemas.
+O simpósio abrange diversas áreas fundamentais para a automação e sistemas:
 
-## Áreas de interesse
-
-Entre os temas relacionados ao simpósio, destacam-se:
-
-- Automação e controle;
-- Sistemas embarcados;
-- Robótica;
-- Inteligência artificial;
-- Internet das Coisas (IoT);
-- Sistemas computacionais;
-- Instrumentação;
-- Processamento de sinais;
-- Sistemas inteligentes;
-- Tecnologias aplicadas à engenharia.
+- Inteligência Artificial
+- Automação
+- Sistemas Inteligentes
+- Data Science
+- Automação em Petróleo
+- Controle e Sistemas
+- Tecnologias para a Indústria
 
 ## Realização
 
-**Universidade Federal do Rio Grande do Norte — UFRN**
-
-O III SAS é promovido no âmbito da comunidade acadêmica da Universidade Federal do Rio Grande do Norte, reunindo diferentes perspectivas e experiências em torno da automação e dos sistemas.
+O III SAS é realizado pela **Universidade Federal do Rio Grande do Norte (UFRN)**, através do **Departamento de Engenharia de Computação e Automação (DCA)** e do **Laboratório de Automação (LAUT)**.
 
 ---
 
