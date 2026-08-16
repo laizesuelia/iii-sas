@@ -1,9 +1,22 @@
 ---
 layout: frontpage
+permalink: /index.html
+homepage: true
+
+<style>
+  #header-home h1, #header-home p, .header-title, #masthead h1 {
+    display: none !important;
+  #}
+</style>
+
+<div class="row">
+  <div class="small-12 columns text-center" style="margin-bottom: 20px;">
+    <img src="{{ site.baseurl }}/images/logo-sas-lg-blue.png" alt="Logotipo III SAS" style="max-width: 220px; height: auto; image-rendering: -webkit-optimize-contrast;">
+  </div>
+</div>
 
 header:
   image_fullwidth: Logo_SAS.png
-  #title: "III Simpósio de Automação e Sistemas"
   subheadline: "Tecnologia • Automação • Sistemas • Inovação"
 
 widget1:
