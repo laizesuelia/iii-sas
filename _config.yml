@@ -39,7 +39,7 @@ improve_content: https://github.com/laizesuelia/iii-sas/edit/dev
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: urlimg: 'https://laizesuelia.github.io/iii-sas/images/'
+urlimg: 'https://laizesuelia.github.io/iii-sas/images/'
 
 
 # Logo size is 600x80 pixels
