@@ -6,14 +6,20 @@ permalink: /inscricoes/
 
 ## Inscrições
 
-Em breve serão disponibilizadas as informações sobre as inscrições para o III Simpósio de Automação e Sistemas.
+As inscrições para o **III Simpósio de Automação e Sistemas (III SAS)** já possuem cronograma definido. O evento contará com **60 vagas** disponíveis.
 
-Nesta página serão divulgados:
+### Cronograma
 
-- Período de inscrições;
-- Público participante;
-- Valores, quando aplicável;
-- Formulário de inscrição;
-- Orientações para participação.
+*   **Período de Inscrições:** de 01/10/2026 a 23/10/2026.
 
-Fique atento às próximas atualizações!
+### Submissão de Artigos e Palestras
+
+Se você deseja submeter trabalhos para o simpósio, fique atento às datas:
+
+*   **Submissão de artigos e propostas de palestras:** de 31/08/2026 a 30/09/2026.
+*   **Avaliação:** 01/10/2026 a 16/10/2026.
+*   **Envio da versão final:** até 23/10/2026.
+
+---
+
+> **Atenção:** Mais informações sobre o formulário de inscrição e eventuais taxas serão divulgadas em breve nesta página. Fique atento às atualizações.
