@@ -32,7 +32,8 @@ urlimg: 'https://laizesuelia.github.io/iii-sas/images/'
 
 
 # Logo size is 600x80 pixels
-logo: 'logo-sas.png'
+
+logo: logo-sas.png
 
 # Plugins
 plugins:

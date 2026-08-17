@@ -1,5 +1,7 @@
 ---
 layout: frontpage
+header:
+  image_fullwidth: logo-sas.png
 widget1:
   title: "Sobre o III SAS"
   url: "/sobre/"
@@ -40,6 +42,5 @@ homepage: true
       <li><strong>Submissão de Artigos:</strong> 31/08 a 30/09/2026</li>
       <li><strong>Inscrições:</strong> 01/10 a 23/10/2026</li>
     </ul>
-
   </div>
 </div>
