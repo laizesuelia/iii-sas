@@ -1,11 +1,8 @@
 ---
 layout: page
 title: "Sobre o III SAS"
-teaser: "Conheça o III Simpósio de Automação e Sistemas."
 permalink: /sobre/
 ---
-
-## Sobre o evento
 
 O **III Simpósio de Automação e Sistemas (III SAS)** reúne estudantes, pesquisadores, profissionais e representantes do setor para compartilhar conhecimentos, apresentar pesquisas e discutir tendências e desafios relacionados à automação e aos sistemas.
 

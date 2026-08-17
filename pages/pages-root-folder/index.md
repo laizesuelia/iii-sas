@@ -18,13 +18,6 @@ widget3:
 permalink: /index.html
 homepage: true
 ---
-
-<div class="row">
-  <div class="small-12 columns text-center" style="margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/logo-sas-lg-blue.png" alt="Logotipo III SAS" style="max-width: 220px; height: auto; image-rendering: -webkit-optimize-contrast;">
-  </div>
-</div>
-
 <div class="row">
   <div class="small-12 columns">
 

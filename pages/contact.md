@@ -2,19 +2,15 @@
 layout: page
 title: "Contato"
 meta_title: "Contato - III SAS"
-subheadline: "Fale Conosco"
-teaser: "Entre em contato com a organização do III Simpósio de Automação e Sistemas."
 permalink: /contact/
 ---
-
-## Informações de Contato
 
 O **III Simpósio de Automação e Sistemas (III SAS)** é realizado no âmbito da Universidade Federal do Rio Grande do Norte (UFRN).
 
 *   **Instituição:** Universidade Federal do Rio Grande do Norte (UFRN)
-*   **Centro e Departamento:** Centro de Tecnologia (CTEC) • Departamento de Engenharia de Computação e Automação (DCA)
+*   **Centro e Departamento:** Centro de Tecnologia (CTEC) - Departamento de Engenharia de Computação e Automação (DCA)
 *   **Laboratório:** Laboratório de Automação (LAUT)
-*   **Local do Evento:** Auditório do LAUT ou CTEC • Natal/RN
+*   **Local do Evento:** Auditório do LAUT ou CTEC - Natal/RN
 
 ---
 
