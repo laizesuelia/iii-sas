@@ -1,11 +1,13 @@
 ---
 layout: page
+header:
+  image_fullwidth: contato-header.png
 title: "Contato"
 meta_title: "Contato - III SAS"
 permalink: /contact/
 ---
 
-O **III Simpósio de Automação e Sistemas (III SAS)** é realizado no âmbito da Universidade Federal do Rio Grande do Norte (UFRN).
+O III Simpósio de Automação e Sistemas é realizado no âmbito da Universidade Federal do Rio Grande do Norte (UFRN).
 
 *   **Instituição:** Universidade Federal do Rio Grande do Norte (UFRN)
 *   **Centro e Departamento:** Centro de Tecnologia (CTEC) - Departamento de Engenharia de Computação e Automação (DCA)

@@ -1,10 +1,12 @@
 ---
 layout: page
+header:
+  image_fullwidth: inscricao-header.png
 title: "Inscrições"
 permalink: /inscricoes/
 ---
 
-As inscrições para o **III Simpósio de Automação e Sistemas (III SAS)** já possuem cronograma definido. O evento contará com **60 vagas** disponíveis.
+As inscrições para o III Simpósio de Automação e Sistemas já possuem cronograma definido.
 
 ### Cronograma
 

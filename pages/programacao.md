@@ -1,10 +1,12 @@
 ---
 layout: page
+header:
+  image_fullwidth: programacao-header.png
 title: "Programação"
 permalink: /programacao/
 ---
 
-Confira a programação do **III Simpósio de Automação e Sistemas (III SAS)**.
+Confira a programação do **III Simpósio de Automação e Sistemas**.
 
 ## Dia 12/11/2026 (Quinta-Feira)
 

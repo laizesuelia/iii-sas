@@ -1,10 +1,12 @@
 ---
 layout: page
+header:
+  image_fullwidth: logo-sas.png
 title: "Sobre o III SAS"
 permalink: /sobre/
 ---
 
-O **III Simpósio de Automação e Sistemas (III SAS)** reúne estudantes, pesquisadores, profissionais e representantes do setor para compartilhar conhecimentos, apresentar pesquisas e discutir tendências e desafios relacionados à automação e aos sistemas.
+O **III Simpósio de Automação e Sistemas** reúne estudantes, pesquisadores, profissionais e representantes do setor para compartilhar conhecimentos, apresentar pesquisas e discutir tendências e desafios relacionados à automação e aos sistemas.
 
 O evento promove a integração entre universidade, pesquisa, tecnologia e indústria, criando um espaço para troca de experiências, divulgação científica e discussão de soluções inovadoras.
 
