@@ -16,7 +16,7 @@ O III Simpósio de Automação e Sistemas é realizado no âmbito da Universidad
 
 ---
 
-### Comissão Organizadora
+### Comissão organizadora
 
 O evento é organizado por docentes e colaboradores do LAUT-DCA:
 *   Prof. Dr. André Laurindo Maitelli
